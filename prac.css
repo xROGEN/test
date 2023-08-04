@@ -1,0 +1,13 @@
+.b1{
+    padding:8px 6px;
+    border-radius: 2px;
+    border-width: 1px;
+    border-style: none;
+    background-color: rgb(5, 143, 5);
+    transition: padding 0.7s;
+    color:white;
+}
+
+.b1:hover{
+    padding: 20px 40px;
+}
